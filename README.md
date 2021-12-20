@@ -6,7 +6,7 @@
 [![gaia-downloader image][gaia_downloader_badge]][gaia_downlaoder_image]
 [![latex-document][latex_document_badge]][latex_document_workflow]
 
-# Code
+# Deep Embedded Clustering for Open Cluster Characterization
 
 ## Table of Contents
 
