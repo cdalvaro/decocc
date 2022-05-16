@@ -7,6 +7,6 @@ pandas ~= 1.4
 plaidml-keras ~= 0.7.0
 psycopg2_binary ~= 2.9
 pydot ~= 1.4.2
-scikit-learn ~= 1.0
+scikit-learn ~= 1.1
 sqlalchemy ~= 1.4
 seaborn ~= 0.11
