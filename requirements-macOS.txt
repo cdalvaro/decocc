@@ -1,7 +1,7 @@
 astroquery ~= 0.4
 astropy ~= 5.3
 diagrams ~= 0.23
-matplotlib ~= 3.7
+matplotlib ~= 3.8
 numpy ~= 1.26
 pandas ~= 2.1
 plaidml-keras ~= 0.7.0
