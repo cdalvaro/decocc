@@ -7,6 +7,6 @@ numpy ~= 1.26
 pandas ~= 2.2
 psycopg2_binary ~= 2.9
 pydot ~= 2.0.0
-scikit-learn ~= 1.4
+scikit-learn ~= 1.5
 sqlalchemy ~= 2.0
 seaborn ~= 0.13
